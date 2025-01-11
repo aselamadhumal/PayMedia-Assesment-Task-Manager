@@ -1,6 +1,6 @@
 import React from "react";
 import TaskBoard from "./components/TaskBoard";
-import "./styles/index.css";
+import "./index.css";
 
 const App = () => {
   return (
